@@ -1,0 +1,13 @@
+    # React
+    greenworksdesigncom/node_modules/
+    greenworksdesigncom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
